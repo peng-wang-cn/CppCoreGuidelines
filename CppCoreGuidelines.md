@@ -21252,7 +21252,7 @@ For example, a pointer might be uninitialized, the `nullptr`, point beyond the r
 Lifetime safety profile summary:
 
 * <a name="Pro-lifetime-invalid-deref"></a>Lifetime.1: Don't dereference a possibly invalid pointer:
-[detect or avoid](#Res-deref).
+[detect or avoid](#res-deref).
 
 ##### Impact
 
