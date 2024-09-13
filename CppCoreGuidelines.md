@@ -12670,7 +12670,7 @@ The main problem left is to find a suitable name for `Count`.
 Flag the C-style `(T)e` and functional-style `T(e)` casts.
 
 
-### <a name="Res-deref"></a>ES.65: Don't dereference an invalid pointer
+### <a name="res-deref"></a>ES.65: Don't dereference an invalid pointer
 
 ##### Reason
 
